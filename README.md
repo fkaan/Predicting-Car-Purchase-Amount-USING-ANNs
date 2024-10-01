@@ -75,12 +75,14 @@ plt.ylabel("Training and Validation Loss")
 plt.xlabel("Epochs")
 plt.legend(["Training Loss", "Validation Loss"])
 plt.show()
+```
 
 ## Results
 The model predicts the expected purchase amount based on customer data. An example prediction:
 
 ```python
 Expected Purchase Amount: [[126894.98]]
+```
 ## Dependencies
 - Python 3.x
 - TensorFlow
@@ -92,3 +94,4 @@ To install the dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+```
