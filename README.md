@@ -29,11 +29,7 @@ To set up the project, follow these steps:
     git clone https://github.com/your-repo/carsalesprediction.git
     ```
 
-2. Install the necessary dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 Once the environment is set up, you can run the Jupyter Notebook to train the model and make predictions:
